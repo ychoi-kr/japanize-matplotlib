@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-import japanize_matplotlib
+import koreanize_matplotlib
 
-plt.plot([1, 2, 3, 4])
-plt.xlabel('簡単なグラフ')
+plt.plot([-1, 0, 1, 2])
+plt.xlabel('간단한 그래프')
 plt.show()

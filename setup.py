@@ -8,12 +8,12 @@ with open(path.join(path.abspath(path.dirname(__file__)), 'README.md'), encoding
 
 install_requires = ['matplotlib']
 
-setup(name='japanize-matplotlib',
-      version='1.1.3',
-      description='matplotlibのフォント設定を自動で日本語化する',
-      author='uehara1414',
-      author_email='akiya.noface@gmail.com',
-      url='https://github.com/uehara1414/japanize-matplotlib',
+setup(name='koreanize-matplotlib',
+      version='0.0.1',
+      description='matplotlib의 폰트 설정을 자동으로 한국어화',
+      author='ychoi-kr',
+      author_email='ychoi_kr@naever.com',
+      url='https://github.com/ychoi-kr/koreanize-matplotlib',
       long_description=long_description,
       long_description_content_type="text/markdown",
       license='MIT License',
@@ -21,5 +21,5 @@ setup(name='japanize-matplotlib',
       install_requires=install_requires,
       include_package_data=True,
       package_data={
-          'japanize_matplotlib': ['fonts/*'],
+          'koreanize_matplotlib': ['fonts/*'],
       })
