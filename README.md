@@ -6,7 +6,7 @@ matplotlib를 import한 후 koreanize_matplotlib를 import합니다.
 
 ```python
 import matplotlib.pyplot as plt
-import japanize_matplotlib
+import koreanize_matplotlib
 
 plt.plot([1, 2, 3, 4])
 plt.xlabel('간단한 그래프')
@@ -14,7 +14,7 @@ plt.show()
 ```
 
 
-![demo](https://github.com/ychoi-kr/japanize-matplotlib/raw/master/demo.png "demo")
+![demo](https://github.com/ychoi-kr/koreanize-matplotlib/raw/master/demo.png "demo")
 
 ## 설치
 ```sh
