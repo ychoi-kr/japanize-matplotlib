@@ -17,9 +17,17 @@ plt.show()
 ![demo](https://github.com/ychoi-kr/koreanize-matplotlib/raw/master/demo.png "demo")
 
 ## 설치
+
+```sh
+pip install koreanize-matplotlib
+```
+
+또는
+
 ```sh
 python setup.py install
 ```
+
 
 ## 사용한 폰트
 [나눔고딕](https://hangeul.naver.com/2021/fonts/nanum)
