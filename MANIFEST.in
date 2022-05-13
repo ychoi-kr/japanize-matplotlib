@@ -1,1 +1,1 @@
-recursive-include japanize_matplotlib/fonts/ *
+recursive-include koreanize_matplotlib/fonts/ *
