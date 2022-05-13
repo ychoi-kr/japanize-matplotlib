@@ -8,7 +8,7 @@ matplotlib를 import한 후 koreanize_matplotlib를 import합니다.
 import matplotlib.pyplot as plt
 import koreanize_matplotlib
 
-plt.plot([1, 2, 3, 4])
+plt.plot([-1, 0, 1, 2])
 plt.xlabel('간단한 그래프')
 plt.show()
 ```
