@@ -1,5 +1,4 @@
-[![PyPI version](https://badge.fury.io/py/japanize-matplotlib.svg)](https://badge.fury.io/py/japanize-matplotlib)
-# japanize-matplotlib
+# koreanize-matplotlib
 matplotlib를 한국어 표시에 대응시킵니다.
 
 ## 사용법
